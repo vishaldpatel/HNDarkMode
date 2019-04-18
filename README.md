@@ -1,6 +1,8 @@
 # HNDarkMode
 This UserScript maker Hacker News colors darkmode friendly.
 
+![Screenshot](hndm.png)
+
 Here's how to use it:
 1. Install your favorite UserScripts plugin for your browser. I use Tampermonkey (http://tampermonkey.net).
 2. Open your Tampermonkey Dashboard found in the Tampermonkey menu.
