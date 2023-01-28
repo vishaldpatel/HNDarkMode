@@ -5,6 +5,7 @@
 // @description  Simple Dark Mode Stylesheet for HN.
 // @match        https://news.ycombinator.com/*
 // @grant        All
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
